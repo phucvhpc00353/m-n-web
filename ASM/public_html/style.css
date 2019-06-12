@@ -1,0 +1,196 @@
+.header .header-top {
+    background:#3b9cbc none repeat scroll 0 0;
+    height: 50px;
+}
+
+.contact>p {
+    line-height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+.header .header-top .contact p a {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header .header-top .contact p span {
+    margin-right: 45px;
+}
+
+.join-us>p{
+    background: #3b9cbc none repeat scroll 0 0;
+    line-height: 50px;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .header-top .join-us p a {
+    background: #3b9cbc none repeat scroll 0 0;
+    color: #fff;
+    float: right;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0 40px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header .header-bottom .menu {
+    margin: 34px 0;
+}
+
+.header .header-bottom .menu ul {
+    float: right;
+}
+
+.header .header-bottom .menu ul li a {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin-right: 0;
+    padding-left: 40px;
+    padding-right: 0;
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus {
+    text-decoration: none;
+    background-color: #3b9cbc;
+}
+
+.main-logo {
+    margin: 29px 0;
+}
+
+.main-logo>img {
+    display: inline-block;
+}
+
+.main-logo>h2 {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 11px;
+    color: #01d262;
+}
+
+.carosal-area {
+    background-image: url("img/cac-day-chuyen-san-xuat-cua-spvb-dap-ung-yeu-cau14.jpg");
+    background-size: cover;
+}
+
+.carosal-area .text {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.carosal-area .text>h3 {
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 210px;
+}
+
+.carosal-area .text>p {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 28px;
+}
+
+.carosal-area .text>h5 {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 52px;
+}
+
+.carosal-area .text>h5 a {
+    border: 1px solid #fff;
+    border-radius: 25px;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 40px;
+    text-decoration: none;
+}
+
+.carosal-area .text>h5.white-button a {
+    background: #fff;
+    color: #01d262;
+}
+
+.carosal-area .owl-prev {
+    left: 0;
+    position: absolute;
+    top: 48%;
+}
+
+.carosal-area .owl-next {
+    right: 0;
+    position: absolute;
+    top: 48%;
+}
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+     width: 20%;
+}
+/* đoạn này dùng để cấu hình tab menu*/
+.nav-tabs, .nav-pills {
+    text-align:center;
+    margin-top: 3%;
+}
+.nav-tabs > li a
+{
+    background-color: #3b9cbc;
+    color: #fff;
+    font-family: 'Bold';
+}
+.bot-body{
+    width: 1030px;
+    height: 371px;
+    background-image: url("img/tabs-content.jpg");
+    margin: auto;
+    margin-top: 3%;
+}
+.span{
+    width: 970px;
+    height: 317.3px;
+}
+.main-title
+{
+    width: 970px;
+    height: 44.8px;
+    color: #fff;
+    font-family: "Light",Helvetica,sans-serif;
+}
+.main-title >h3
+{
+    margin-left:10%;
+}
+.anhmenu img{
+    width: 22.5%;
+    height: 31%;
+}
+.anhmenu{
+    margin-left: 16%;
+    width: 100%;
+    height: auto;
+}
+#h2t{
+    float: none;
+}
